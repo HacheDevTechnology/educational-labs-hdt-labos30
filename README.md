@@ -1,2 +1,5 @@
-# educational-labs-hdt-labos30
-EducationalLabsHDT Lab OS 30 landing + shop
+# EducationalLabsHDT — Lab OS 30
+
+Landing + shop del sistema de estudio de 30 días.
+
+SKU: ELHDT-LABOS30
